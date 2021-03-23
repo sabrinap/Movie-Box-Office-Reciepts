@@ -1,11 +1,5 @@
 # ==============================================================================
 # PROGRAM Movie Box Office Receipts
-#
-# AUTHOR: <Sabrina Pinera>
-# FSU MAIL NAME: <sp17m>
-# RECITATION SECTION NUMBER: <type your section number here>
-# RECITATION INSTRUCTOR NAME: <Gradon Stone>
-# COP 3035 - Fall 2019
 # PROJECT NUMBER: 1 
 # DUE DATE: Tuesday 9/10/2019
 # PLATFORM: Windows OS / Python 3
